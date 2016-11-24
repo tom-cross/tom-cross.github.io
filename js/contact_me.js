@@ -24,7 +24,7 @@ $(function () {
             }
             $.ajax({
                 // url: "./php/contact_me.php",
-                url: "http://formspree.io/tommaso.croce.83@gmail.com",
+                url: "https://formspree.io/tommaso.croce.83@gmail.com",
                 type: "POST",
                 data: {
                     _subject: subject,
